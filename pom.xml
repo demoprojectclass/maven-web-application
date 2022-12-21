@@ -16,7 +16,11 @@
 		<name>Landmark Technologies</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
-
+<server>
+                <id>nexus</id>
+                <username>landmark</username>
+                <password>admin123</password>
+            </server> 
 	<properties>
 		<jdk.version>1.8</jdk.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
